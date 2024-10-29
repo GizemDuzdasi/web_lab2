@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kisiler>
+    <person>
+        <numara>111111</numara>
+        <adsoyad>Duygu AKŞEHİR</adsoyad>
+        <bolum>Bilgisayar Mühendisliği</bolum>
+        <sinif>1</sinif>
+    </person>
+    <person>
+        <numara>222222</numara>
+        <adsoyad>Ayşe ÇALIŞKAN</adsoyad>
+        <bolum>Kimya Mühendisliği</bolum>
+        <sinif>3</sinif>
+    </person>
+    <person>
+        <numara>333333</numara>
+        <adsoyad>Semih ARSLAN</adsoyad>
+        <bolum>Makine Mühendisliği</bolum>
+        <sinif>2</sinif>
+    </person>
+    <person>
+        <numara>444444</numara>
+        <adsoyad>Mehmet ERKOÇ</adsoyad>
+        <bolum>Elektrik Elektronik Mühendisliği</bolum>
+        <sinif>4</sinif>
+    </person>
+</kisiler>
